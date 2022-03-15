@@ -31,5 +31,5 @@
     <img src="Screenshot/4.game.jpg" width="200"/><img src="Screenshot/5.game.jpg" width="200"/><img src="Screenshot/6.finish.jpg" width="200"/>
 </center>
 
-![image1](Screenshot/1.main.jpg) ![image2](Screenshot/2.diff.jpg) ![image3](Screenshot/3.choose.jpg)
-![image](Screenshot/4.game.jpg) ![image](Screenshot/5.game.jpg) ![image](Screenshot/6.finish.jpg)
+![image1](Screenshot/1.main.jpg) | ![image2](Screenshot/2.diff.jpg) | ![image3](Screenshot/3.choose.jpg)
+![image](Screenshot/4.game.jpg) | ![image](Screenshot/5.game.jpg) | ![image](Screenshot/6.finish.jpg)
