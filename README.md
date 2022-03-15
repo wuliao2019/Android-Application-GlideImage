@@ -24,7 +24,7 @@
 点击任意一块拼图后开始计时，游戏开始，走过的步数会被记录，拼图移动时有平移动画。点击重置会重新打乱拼图并重置时间和步数。点击返回会回到主界面。当正确走完最后一块拼图时，游戏自动判定成功，计时会停止且拼图不可点击，弹出提示成功字样并补齐右下角图片。
 
 #### 应用截图
-
+ | | 
 :-------------------------:|:-------------------------:|:-------------------------:
 ![image](Screenshot/1.main.jpg) | ![image](Screenshot/2.diff.jpg) | ![image](Screenshot/3.choose.jpg)
 ![image](Screenshot/4.game.jpg) | ![image](Screenshot/5.game.jpg) | ![image](Screenshot/6.finish.jpg)
