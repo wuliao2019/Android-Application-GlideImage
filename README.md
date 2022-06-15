@@ -1,6 +1,14 @@
 # Android-Application-GlideImage
 重庆大学2019级计算机学院移动应用开发实验二：Android拼图游戏
 
+Android Studio Chipmunk | 2021.2.1 Patch 1
+
+Gradle Version: 7.0.2
+
+Compile Sdk Version: API 31(Android 12.0)
+
+(源码和资源在app/src/main)
+
 #### 实验目的
 1. 本次实验的目的是掌握Android Studio开发工具的基本操作，了解所开发Android项目的基本结构。掌握常用组件和布局的使用，尤其图像组件的使用，bitmap的处理等。
 2. 设计完成一个拼图小游戏APP。
